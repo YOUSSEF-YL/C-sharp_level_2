@@ -1,0 +1,12 @@
+C:\Users\YL\OneDrive\Bureau\source\repos\Splashscreen\Splashscreen\obj\Debug\Splashscreen.csproj.AssemblyReference.cache
+C:\Users\YL\OneDrive\Bureau\source\repos\Splashscreen\Splashscreen\obj\Debug\Splashscreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\YL\OneDrive\Bureau\source\repos\Splashscreen\Splashscreen\obj\Debug\Splashscreen.Form1.resources
+C:\Users\YL\OneDrive\Bureau\source\repos\Splashscreen\Splashscreen\obj\Debug\Splashscreen.Form2.resources
+C:\Users\YL\OneDrive\Bureau\source\repos\Splashscreen\Splashscreen\obj\Debug\Splashscreen.csproj.GenerateResource.cache
+C:\Users\YL\OneDrive\Bureau\source\repos\Splashscreen\Splashscreen\bin\Debug\Splashscreen.exe.config
+C:\Users\YL\OneDrive\Bureau\source\repos\Splashscreen\Splashscreen\bin\Debug\Splashscreen.exe
+C:\Users\YL\OneDrive\Bureau\source\repos\Splashscreen\Splashscreen\bin\Debug\Splashscreen.pdb
+C:\Users\YL\OneDrive\Bureau\source\repos\Splashscreen\Splashscreen\obj\Debug\Splashscreen.Properties.Resources.resources
+C:\Users\YL\OneDrive\Bureau\source\repos\Splashscreen\Splashscreen\obj\Debug\Splashscreen.csproj.CoreCompileInputs.cache
+C:\Users\YL\OneDrive\Bureau\source\repos\Splashscreen\Splashscreen\obj\Debug\Splashscreen.exe
+C:\Users\YL\OneDrive\Bureau\source\repos\Splashscreen\Splashscreen\obj\Debug\Splashscreen.pdb

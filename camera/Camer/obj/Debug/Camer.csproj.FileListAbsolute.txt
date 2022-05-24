@@ -1,0 +1,6 @@
+E:\code\c#\C-sharp_level_2\camera\Camer\obj\Debug\Camer.csproj.AssemblyReference.cache
+E:\code\c#\C-sharp_level_2\camera\Camer\obj\Debug\Camer.csproj.SuggestedBindingRedirects.cache
+E:\code\c#\C-sharp_level_2\camera\Camer\obj\Debug\Camer.Form1.resources
+E:\code\c#\C-sharp_level_2\camera\Camer\obj\Debug\Camer.Properties.Resources.resources
+E:\code\c#\C-sharp_level_2\camera\Camer\obj\Debug\Camer.csproj.GenerateResource.cache
+E:\code\c#\C-sharp_level_2\camera\Camer\obj\Debug\Camer.csproj.CoreCompileInputs.cache
